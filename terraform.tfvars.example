@@ -1,0 +1,5 @@
+aws_profile = ""
+region = ""
+project_name = "cntechy_redirects_root_www"
+domain_name = "cntechy.com"
+cf_s3_origin_id = ""
