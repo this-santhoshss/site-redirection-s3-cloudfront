@@ -1,4 +1,4 @@
-This is a Terraform project which shows how to set up site redirects using AWS S3, CloudFront, and Terraform. We will also serve it through a domain registered in Route 53. 
+This is a Terraform project which shows how to set up site redirects using CloudFront, S3 and Terraform. We will also serve it through a domain registered in Route 53. 
 
 # Getting started
 
@@ -9,6 +9,12 @@ This is a Terraform project which shows how to set up site redirects using AWS S
 3. Run the terraform commands. 
 
 The full step-by-step guide on how the project is available at [blog.cntechy.com](https://blog.cntechy.com/how-to-set-up-site-redirects-in-cloudfront-using-terraform)
+
+# Tools used
+
+IaC tool: Terraform.
+
+AWS services: S3, Cloudfront, Cloudfront functions, Route 53, ACM.
 
 # Final Result
 
